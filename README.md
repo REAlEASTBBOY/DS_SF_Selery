@@ -151,30 +151,30 @@
 
 | График | Ссылка |
 |---|---|
-| Гистограмма возраста | [открыть](https://realeastboy.github.io/DS_SF_Selery/plots/age_histogram.html) |
-| Коробчатая диаграмма возраста | [открыть](https://realeastboy.github.io/DS_SF_Selery/plots/age_boxplot.html) |
-| Гистограмма опыта работы | [открыть](https://realeastboy.github.io/DS_SF_Selery/plots/experience_histogram.html) |
-| Коробчатая диаграмма опыта работы | [открыть](https://realeastboy.github.io/DS_SF_Selery/plots/experience_boxplot.html) |
-| Гистограмма желаемой зарплаты | [открыть](https://realeastboy.github.io/DS_SF_Selery/plots/salary_histogram.html) |
-| Коробчатая диаграмма желаемой зарплаты | [открыть](https://realeastboy.github.io/DS_SF_Selery/plots/salary_boxplot.html) |
+| Гистограмма возраста | [открыть](https://realeastbboy.github.io/DS_SF_Selery/plots/age_histogram.html) |
+| Коробчатая диаграмма возраста | [открыть](https://realeastbboy.github.io/DS_SF_Selery/plots/age_boxplot.html) |
+| Гистограмма опыта работы | [открыть](https://realeastbboy.github.io/DS_SF_Selery/plots/experience_histogram.html) |
+| Коробчатая диаграмма опыта работы | [открыть](https://realeastbboy.github.io/DS_SF_Selery/plots/experience_boxplot.html) |
+| Гистограмма желаемой зарплаты | [открыть](https://realeastbboy.github.io/DS_SF_Selery/plots/salary_histogram.html) |
+| Коробчатая диаграмма желаемой зарплаты | [открыть](https://realeastbboy.github.io/DS_SF_Selery/plots/salary_boxplot.html) |
 
 ### Зарплата в разрезе категорий
 
 | График | Ссылка |
 |---|---|
-| По виду занятости | [открыть](https://realeastboy.github.io/DS_SF_Selery/plots/salary_by_employment.html) |
-| По графику работы | [открыть](https://realeastboy.github.io/DS_SF_Selery/plots/salary_by_schedule.html) |
-| По образованию | [открыть](https://realeastboy.github.io/DS_SF_Selery/plots/salary_by_education.html) |
-| По городам (медиана) | [открыть](https://realeastboy.github.io/DS_SF_Selery/plots/salary_by_city_bar.html) |
-| По городам (распределение) | [открыть](https://realeastboy.github.io/DS_SF_Selery/plots/salary_by_city_boxplot.html) |
-| По готовности к переезду и командировкам | [открыть](https://realeastboy.github.io/DS_SF_Selery/plots/salary_by_relocation_trips.html) |
+| По виду занятости | [открыть](https://realeastbboy.github.io/DS_SF_Selery/plots/salary_by_employment.html) |
+| По графику работы | [открыть](https://realeastbboy.github.io/DS_SF_Selery/plots/salary_by_schedule.html) |
+| По образованию | [открыть](https://realeastbboy.github.io/DS_SF_Selery/plots/salary_by_education.html) |
+| По городам (медиана) | [открыть](https://realeastbboy.github.io/DS_SF_Selery/plots/salary_by_city_bar.html) |
+| По городам (распределение) | [открыть](https://realeastbboy.github.io/DS_SF_Selery/plots/salary_by_city_boxplot.html) |
+| По готовности к переезду и командировкам | [открыть](https://realeastbboy.github.io/DS_SF_Selery/plots/salary_by_relocation_trips.html) |
 
 ### Взаимосвязи признаков
 
 | График | Ссылка |
 |---|---|
-| Опыт работы от возраста | [открыть](https://realeastboy.github.io/DS_SF_Selery/plots/experience_vs_age_scatter.html) |
-| Тепловая карта: возраст × образование | [открыть](https://realeastboy.github.io/DS_SF_Selery/plots/salary_age_education_heatmap.html) |
+| Опыт работы от возраста | [открыть](https://realeastbboy.github.io/DS_SF_Selery/plots/experience_vs_age_scatter.html) |
+| Тепловая карта: возраст × образование | [открыть](https://realeastbboy.github.io/DS_SF_Selery/plots/salary_age_education_heatmap.html) |
 
 ## Ограничения
 
